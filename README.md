@@ -1,5 +1,7 @@
 # Foundations of Computer Science: Trending YouTube Relational Analysis
 
+---
+
 ### 📌 Description
 This project was developed as part of the **Foundations of Computer Science** course within the **MSc in Data Science** program at the **University of Milano-Bicocca**.
 
